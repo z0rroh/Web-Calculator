@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TDD React
 
 ## Local Setup
@@ -22,3 +23,7 @@ $ yarn start
 ```sh
 $ yarn test
 ```
+=======
+# Web-Calculator
+Calculadora web desarrollada en el metódo TDD bajo el stack React/Jest/Enzyme
+>>>>>>> 10f0fdd4c0e60bed7d3af5eaffce59b994da44c6
